@@ -187,3 +187,7 @@ yarn add husky --dev
 yarn husky init
 yarn add lint-staged --dev
 ```
+
+
+### Instalando e configurando o Jest com TypeScript
+
