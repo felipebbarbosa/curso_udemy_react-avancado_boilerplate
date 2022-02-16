@@ -191,3 +191,18 @@ yarn add lint-staged --dev
 
 ### Instalando e configurando o Jest com TypeScript
 
+Site oficial do [Jest](https://jestjs.io/)
+
+```
+yarn add --dev jest @babel/preset-typescript @types/jest
+```
+
+### Instalando o React Testing Library e escrevendo os primeiros testes
+
+Site oficial do [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
+```
+yarn add --dev @testing-library/react @testing-library/jest-dom
+```
+
+Link para o [Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
