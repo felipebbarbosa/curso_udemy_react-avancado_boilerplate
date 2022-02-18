@@ -206,3 +206,12 @@ yarn add --dev @testing-library/react @testing-library/jest-dom
 ```
 
 Link para o [Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
+
+
+### Instalando o Styled Components e configurando o SSR
+
+
+```
+yarn add --dev @types/styled-components babel-plugin-styled-components
+yarn add styled-components
+```
