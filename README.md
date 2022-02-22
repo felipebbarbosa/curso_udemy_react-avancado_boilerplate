@@ -215,3 +215,4 @@ Link para o [Cheatsheet](https://testing-library.com/docs/react-testing-library/
 yarn add --dev @types/styled-components babel-plugin-styled-components
 yarn add styled-components
 ```
+
