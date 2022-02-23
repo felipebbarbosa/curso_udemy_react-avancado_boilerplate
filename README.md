@@ -216,3 +216,9 @@ yarn add --dev @types/styled-components babel-plugin-styled-components
 yarn add styled-components
 ```
 
+### Melhorando snapshots com Jest-styled-components
+
+```
+yarn add --dev jest-styled-components
+```
+
