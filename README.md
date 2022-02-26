@@ -222,3 +222,11 @@ yarn add styled-components
 yarn add --dev jest-styled-components
 ```
 
+### Configurando o Storybook e escrevendo stories
+
+[Storybook](https://storybook.js.org/) é uma ferramenta para testes de componentes de UI de forma isolada.
+
+```
+npx sb init
+yarn add @storybook/addon-knobs --dev
+```
