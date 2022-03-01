@@ -228,5 +228,18 @@ yarn add --dev jest-styled-components
 
 ```
 npx sb init
-yarn add @storybook/addon-knobs --dev
+```
+
+### Configurando o PWA
+
+Utilizamos o plugin [next-pwa](https://www.npmjs.com/package/next-pwa), para configurá-lo:
+
+```
+yarn add next-pwa
+```
+Para testar:
+
+```
+NODE_ENV=production yarn build
+yarn start
 ```
