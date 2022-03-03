@@ -243,3 +243,9 @@ Para testar:
 NODE_ENV=production yarn build
 yarn start
 ```
+
+### Iniciando um projeto através do boilerplate
+
+```
+yarn create next-app -e https://github.com/felipebbarbosa/curso_udemy_react-avancado_boilerplate
+```
