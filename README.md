@@ -267,3 +267,11 @@ yarn start
 ```
 yarn create next-app -e https://github.com/felipebbarbosa/curso_udemy_react-avancado_boilerplate
 ```
+
+### Automatizando criação de arquivos
+
+Criando arquivos a partir de um template com [PLOP](https://plopjs.com/). Para instalá-lo:
+
+```
+yarn add -D plop
+```
