@@ -299,11 +299,11 @@ Segundo a [documentação](https://docs.strapi.io/developer-docs/latest/getting-
 
 ### Comandos do PostgreSQL
 
-No ambiente WSL, você tem duas opções de instalação do PostgreSQL: [diretamente no Ubuntu](https://docs.microsoft.com/pt-br/windows/wsl/tutorials/wsl-database) ou através do Docker.
+No ambiente WSL, você tem duas opções de instalação do PostgreSQL:
 
-#### Via diretamente no Ubuntu
+#### 1. Via diretamente no Ubuntu
 
-Depois de instalado, você pode checar a versão através do comando `psql --version`.
+Depois de [instalado](https://docs.microsoft.com/pt-br/windows/wsl/tutorials/wsl-database), você pode checar a versão através do comando `psql --version`.
 
 Para iniciar, checar status e encerrar o serviço do Postgres os comandos são os seguintes:
 
@@ -330,7 +330,7 @@ alter user strapi with encrypted password 'strapi123';
 grant all privileges on database strapi to strapi;
 ```
 
-#### Via Docker
+#### 2. Via Docker
 
 Para criar uma image docker Postgres, execute o comando:
 
